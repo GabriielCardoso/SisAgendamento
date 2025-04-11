@@ -33,7 +33,7 @@
     ?>
 
     <div class="alert alert-success" role="alert">
-  <h4 class="alert-heading">Inserir Cadastro!</h4>
+  <h4 class="alert-heading">Inserir Cadastro!!</h4>
   <p>Cadastro inserido com sucesso!</p>
   <hr>
   <p class="mb-0">
