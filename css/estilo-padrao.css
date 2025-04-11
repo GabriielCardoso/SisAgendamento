@@ -1,0 +1,17 @@
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 180px;
+
+}
+
+.tabela{
+    margin-top:10px ;
+}
+
+body{
+    background-color: #3b4147;
+    color: aliceblue;
+}
+
