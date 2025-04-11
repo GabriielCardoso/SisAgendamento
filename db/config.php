@@ -2,6 +2,6 @@
 // Constantes de configuração da conexão com o banco de dados
 define("SERVIDOR","localhost");
 define("USUARIO","root");
-define("SENHA","");
-define("BANCO","db sis agendamento");
+define("SENHA","root");
+define("BANCO","dbsisagendamento");
 ?>

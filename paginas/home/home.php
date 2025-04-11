@@ -136,8 +136,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "db sis agendamento";
+$password = "root";
+$dbname = "dbsisagendamento";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
